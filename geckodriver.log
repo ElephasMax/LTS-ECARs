@@ -1,0 +1,965 @@
+1574796864493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTsn5Ja"
+1574796864797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574796864797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574796864797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574796864797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:4624): GLib-GIO-WARNING **: 12:34:24.890: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574796865852	Marionette	INFO	Listening on port 36633
+1574796865899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://login.case.edu/cas/lib/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 4624, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4624, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574796918825	Marionette	INFO	Stopped listening on port 36633
+1574797132644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2aBmNH"
+1574797132956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574797132956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574797132956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574797132956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:6164): GLib-GIO-WARNING **: 12:38:53.055: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574797134046	Marionette	INFO	Listening on port 40895
+1574797134148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:6287): dconf-WARNING **: 12:39:02.581: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1574797176507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledwH5FF"
+1574797176829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574797176830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574797176830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574797176830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:6499): GLib-GIO-WARNING **: 12:39:36.929: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574797177899	Marionette	INFO	Listening on port 42967
+1574797177911	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6164, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 6164, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574797178154	Marionette	INFO	Stopped listening on port 40895
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:6617): dconf-WARNING **: 12:39:41.544: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+JavaScript warning: https://www.trumba.com/scripts/spuds.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.trumba.com/scripts/spuds.js, line 2: unreachable code after return statement
+1574797201019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHjC2Ai"
+1574797201326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574797201326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574797201326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574797201326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:6792): GLib-GIO-WARNING **: 12:40:01.430: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574797202434	Marionette	INFO	Listening on port 37579
+1574797202522	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:6905): dconf-WARNING **: 12:40:05.881: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+[Parent 6792, Gecko_IOThread] WARNING: pipe error (52): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 6792, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574797407170	Marionette	INFO	Stopped listening on port 37579
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 6499, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574797414135	Marionette	INFO	Stopped listening on port 42967
+1574797668337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezFYHZC"
+1574797668650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574797668651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574797668651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574797668651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:8140): GLib-GIO-WARNING **: 12:47:48.751: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574797669742	Marionette	INFO	Listening on port 45281
+1574797669841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://shibidp.colostate.edu"
+console.warn: LoginManager: "searchLogins: `formActionOrigin` or `httpRealm` is recommended"
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+1574797782509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYFC77W"
+1574797782828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574797782828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574797782828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574797782828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:8513): GLib-GIO-WARNING **: 12:49:42.926: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574797783887	Marionette	INFO	Listening on port 35625
+1574797783912	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1574797806054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevSCt4h"
+1574797806359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574797806359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574797806359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574797806359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:8779): GLib-GIO-WARNING **: 12:50:06.463: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574797807484	Marionette	INFO	Listening on port 35069
+1574797807558	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1574797847501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0KRJLA"
+1574797847813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574797847813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574797847813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574797847813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:9062): GLib-GIO-WARNING **: 12:50:47.911: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574797848944	Marionette	INFO	Listening on port 46001
+1574797849005	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1140:3
+
+1574797860916	Marionette	ERROR	[21] No reply from Marionette:Register
+1574797870440	Marionette	INFO	Stopped listening on port 46001
+1574797961706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexZxIaQ"
+1574797962014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574797962014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574797962014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574797962014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:9432): GLib-GIO-WARNING **: 12:52:42.110: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574797963198	Marionette	INFO	Listening on port 46311
+1574797963211	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[Parent 8140, Gecko_IOThread] WARNING: pipe error (157): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+
+(/usr/lib/firefox/firefox:8262): dconf-WARNING **: 12:58:46.633: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 335"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:335:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:224:10
+Line: 335, column: 0
+console.error: ({})
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+1574798555848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileItSASB"
+1574798556176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574798556176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574798556176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574798556176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:10373): GLib-GIO-WARNING **: 13:02:36.269: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574798557252	Marionette	INFO	Listening on port 38241
+1574798557351	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:10503): dconf-WARNING **: 13:03:10.077: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+[Parent 8140, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 8140, Gecko_IOThread] WARNING: pipe error (102): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574798615464	Marionette	INFO	Stopped listening on port 45281
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1574798986865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelNiiIi"
+1574798987168	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574798987169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574798987169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574798987169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:11175): GLib-GIO-WARNING **: 13:09:47.273: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574798988231	Marionette	INFO	Listening on port 45727
+1574798988269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1574799181410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG0tdAu"
+1574799181707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574799181707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574799181707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574799181707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:11674): GLib-GIO-WARNING **: 13:13:01.807: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574799182734	Marionette	INFO	Listening on port 42735
+1574799182814	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1574799204810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSj30GZ"
+1574799205098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574799205098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574799205098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574799205098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:11941): GLib-GIO-WARNING **: 13:13:25.196: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574799206165	Marionette	INFO	Listening on port 46581
+1574799206213	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1574799227141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ0UsOE"
+1574799227437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574799227438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574799227438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574799227438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:12197): GLib-GIO-WARNING **: 13:13:47.532: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574799228532	Marionette	INFO	Listening on port 35371
+1574799228545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+1574799459023	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCqSYpn"
+1574799459318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574799459318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574799459318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574799459318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:12621): GLib-GIO-WARNING **: 13:17:39.415: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574799460314	Marionette	INFO	Listening on port 39973
+1574799460326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:12744): dconf-WARNING **: 13:17:47.219: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+1574807154803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileysgZOl"
+1574807155128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574807155129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574807155129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574807155129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:3986): GLib-GIO-WARNING **: 15:25:55.227: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574807156169	Marionette	INFO	Listening on port 37515
+1574807156206	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:4114): dconf-WARNING **: 15:26:00.824: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4090, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1574807228163	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNvLdUO"
+1574807228473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574807228473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574807228473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574807228473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:4297): GLib-GIO-WARNING **: 15:27:08.575: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574807229565	Marionette	INFO	Listening on port 37117
+1574807229570	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:4413): dconf-WARNING **: 15:27:13.598: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1574807244743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2JddGp"
+1574807245075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574807245076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574807245076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574807245076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:4557): GLib-GIO-WARNING **: 15:27:25.177: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574807246231	Marionette	INFO	Listening on port 33133
+1574807246253	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:4683): dconf-WARNING **: 15:27:29.037: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wsnet2.colostate.edu"
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1574808006423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNnQA6g"
+1574808006726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574808006726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574808006726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574808006726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:5058): GLib-GIO-WARNING **: 15:40:06.826: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574808007932	Marionette	INFO	Listening on port 39963
+1574808008031	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:5177): dconf-WARNING **: 15:40:11.436: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1574808188907	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLon6Lo"
+1574808189224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574808189224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574808189224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574808189224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:5483): GLib-GIO-WARNING **: 15:43:09.324: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574808190306	Marionette	INFO	Listening on port 46709
+1574808190313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+[Parent 5483, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 5483, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574808247833	Marionette	INFO	Stopped listening on port 46709
+1574808259158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRhzUfm"
+1574808259462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574808259462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574808259462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574808259462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:5803): GLib-GIO-WARNING **: 15:44:19.563: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574808260538	Marionette	INFO	Listening on port 36137
+1574808260562	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1574808294844	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledlEpML"
+1574808295173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574808295173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574808295173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574808295173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:6065): GLib-GIO-WARNING **: 15:44:55.277: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574808296254	Marionette	INFO	Listening on port 42383
+1574808296348	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+[Parent 6065, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 6065, Gecko_IOThread] WARNING: pipe error (74): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574808644596	Marionette	INFO	Stopped listening on port 42383
+1574808655372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX7TzO7"
+1574808655687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574808655687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574808655687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574808655687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:6647): GLib-GIO-WARNING **: 15:50:55.790: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574808656825	Marionette	INFO	Listening on port 33637
+1574808656876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:6764): dconf-WARNING **: 15:51:14.090: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+1574808785717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6RTt7f"
+1574808786009	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574808786009	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574808786009	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574808786009	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:6988): GLib-GIO-WARNING **: 15:53:06.104: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574808787047	Marionette	INFO	Listening on port 46431
+1574808787120	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+1574808886997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8ulWfU"
+1574808887298	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574808887298	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574808887298	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574808887298	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:7296): GLib-GIO-WARNING **: 15:54:47.388: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574808888329	Marionette	INFO	Listening on port 35217
+1574808888403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+1574808999897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3RIY4e"
+1574809000190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574809000190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574809000191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574809000191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:7606): GLib-GIO-WARNING **: 15:56:40.291: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574809001240	Marionette	INFO	Listening on port 40579
+1574809001301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+1574809534449	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKnMKaz"
+1574809534752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574809534752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574809534752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574809534752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:8235): GLib-GIO-WARNING **: 16:05:34.845: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574809535778	Marionette	INFO	Listening on port 33445
+1574809535859	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+[Parent 7296, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 7296, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574809826302	Marionette	INFO	Stopped listening on port 35217
+[Parent 7606, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 7606, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574809828236	Marionette	INFO	Stopped listening on port 40579
+[Parent 8235, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 8235, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574809829904	Marionette	INFO	Stopped listening on port 33445
+[Parent 6647, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 6647, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574809831028	Marionette	INFO	Stopped listening on port 33637
+[Parent 6988, Gecko_IOThread] WARNING: pipe error (106): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 6988, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574809834248	Marionette	INFO	Stopped listening on port 46431
+1574809977656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJz0GKp"
+1574809977972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574809977972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574809977973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574809977973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:9080): GLib-GIO-WARNING **: 16:12:58.075: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574809979114	Marionette	INFO	Listening on port 41203
+1574809979159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:9202): dconf-WARNING **: 16:13:02.079: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+1574810005036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei4y3Rt"
+1574810005328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574810005328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574810005328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574810005328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:9351): GLib-GIO-WARNING **: 16:13:25.422: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574810006422	Marionette	INFO	Listening on port 41185
+1574810006439	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+1574810008775	Marionette	INFO	Stopped listening on port 41203
+
+(/usr/lib/firefox/firefox:9469): dconf-WARNING **: 16:13:33.714: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+1574814576427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehp70rg"
+1574814576721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574814576721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574814576721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574814576721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:12815): GLib-GIO-WARNING **: 17:29:36.815: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+[Parent 9351, Gecko_IOThread] WARNING: pipe error (105): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 9351, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574814751662	Marionette	INFO	Stopped listening on port 41185
+1574823486643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile92dy0e"
+1574823486952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574823486952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574823486953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574823486953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:19524): GLib-GIO-WARNING **: 19:58:07.049: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574823488112	Marionette	INFO	Listening on port 35763
+1574823488148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:19651): dconf-WARNING **: 19:58:13.838: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+1574823789861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8wcnSo"
+1574823790153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574823790153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574823790153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574823790153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:20004): GLib-GIO-WARNING **: 20:03:10.245: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574823791156	Marionette	INFO	Listening on port 40793
+1574823791166	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:20131): dconf-WARNING **: 20:03:15.768: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+1574823956577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenYVaPD"
+1574823956885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574823956885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574823956885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574823956885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:21681): GLib-GIO-WARNING **: 20:05:56.978: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574823957903	Marionette	INFO	Listening on port 36273
+1574823957982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:21800): dconf-WARNING **: 20:06:02.007: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+[Parent 21681, Gecko_IOThread] WARNING: pipe error (102): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+[Parent 21681, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574824084285	Marionette	INFO	Stopped listening on port 36273
+1574824087481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3FmIsH"
+1574824087772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574824087772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574824087772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574824087772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:21994): GLib-GIO-WARNING **: 20:08:07.869: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574824088780	Marionette	INFO	Listening on port 35795
+1574824088796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:22115): dconf-WARNING **: 20:08:12.297: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1574824186026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2aO4ls"
+1574824186336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574824186336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574824186336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574824186336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:22312): GLib-GIO-WARNING **: 20:09:46.434: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574824187352	Marionette	INFO	Listening on port 45769
+1574824187429	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:22431): dconf-WARNING **: 20:09:50.865: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wsnet2.colostate.edu"
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+1574824254615	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQsGtgA"
+1574824254915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574824254916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574824254916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574824254916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:22602): GLib-GIO-WARNING **: 20:10:55.008: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574824256072	Marionette	INFO	Listening on port 44049
+1574824256119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:22720): dconf-WARNING **: 20:11:02.731: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+1574824348133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZufC6Z"
+1574824348418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574824348418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574824348418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574824348418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:22884): GLib-GIO-WARNING **: 20:12:28.508: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574824349405	Marionette	INFO	Listening on port 44307
+1574824349436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:23003): dconf-WARNING **: 20:12:32.218: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+[Parent 22602, Gecko_IOThread] WARNING: pipe error (63): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 22602, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574824449947	Marionette	INFO	Stopped listening on port 44049
+1574824470667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKXsDqz"
+1574824470957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574824470957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574824470957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574824470957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:23241): GLib-GIO-WARNING **: 20:14:31.049: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574824471947	Marionette	INFO	Listening on port 44923
+1574824471970	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:23358): dconf-WARNING **: 20:14:34.747: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+[Parent 23241, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 23241, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574824532868	Marionette	INFO	Stopped listening on port 44923
+1574824536004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDI9Uiu"
+1574824536297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574824536297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574824536297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574824536297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:23530): GLib-GIO-WARNING **: 20:15:36.391: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574824537367	Marionette	INFO	Listening on port 35357
+1574824537410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:23647): dconf-WARNING **: 20:15:40.318: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+1574824580000	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1kA9WF"
+1574824580306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574824580306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574824580306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574824580306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:23796): GLib-GIO-WARNING **: 20:16:20.398: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574824581280	Marionette	INFO	Listening on port 45611
+1574824581303	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:23913): dconf-WARNING **: 20:16:24.267: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+1574824663302	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZE75kg"
+1574824663574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574824663574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574824663574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574824663574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:24088): GLib-GIO-WARNING **: 20:17:43.666: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574824664583	Marionette	INFO	Listening on port 40143
+1574824664605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+1574824706643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0806kl"
+1574824706941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574824706941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574824706941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574824706941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:24355): GLib-GIO-WARNING **: 20:18:27.029: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574824707972	Marionette	INFO	Listening on port 33847
+1574824708049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+1574824737587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYwi09k"
+1574824737891	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574824737891	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574824737891	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574824737891	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:24621): GLib-GIO-WARNING **: 20:18:57.989: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574824739008	Marionette	INFO	Listening on port 33613
+1574824739091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:24737): dconf-WARNING **: 20:19:04.497: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1574824794361	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile532rZU"
+1574824794648	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574824794648	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574824794648	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574824794648	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:24917): GLib-GIO-WARNING **: 20:19:54.738: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574824795660	Marionette	INFO	Listening on port 45365
+1574824795665	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+1574824831978	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0ZohHF"
+1574824832264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574824832264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574824832264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574824832264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:25178): GLib-GIO-WARNING **: 20:20:32.355: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574824833259	Marionette	INFO	Listening on port 41595
+1574824833282	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+1574824853731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5kXCm9"
+1574824854027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574824854027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574824854027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574824854027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:25448): GLib-GIO-WARNING **: 20:20:54.123: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574824855075	Marionette	INFO	Listening on port 43437
+1574824855135	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+[Parent 23796, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574824860766	Marionette	INFO	Stopped listening on port 45611
+[Parent 23796, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574824868868	Marionette	INFO	Stopped listening on port 41595
+[Parent 24917, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 24917, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574824869025	Marionette	INFO	Stopped listening on port 45365
+[Parent 24088, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 24088, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574824870214	Marionette	INFO	Stopped listening on port 40143
+[Parent 24355, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 24355, Gecko_IOThread] WARNING: pipe error (102): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574824871426	Marionette	INFO	Stopped listening on port 33847
+[Parent 23530, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574824872857	Marionette	INFO	Stopped listening on port 35357
+[Parent 22884, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 22884, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574824874000	Marionette	INFO	Stopped listening on port 44307
+[Parent 22312, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574824875641	Marionette	INFO	Stopped listening on port 45769
+1574824937747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2Yh4xp"
+1574824938063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574824938063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574824938063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574824938064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:25806): GLib-GIO-WARNING **: 20:22:18.161: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574824939229	Marionette	INFO	Listening on port 40799
+1574824939260	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+[Parent 25806, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 25806, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574824979635	Marionette	INFO	Stopped listening on port 40799
+[Parent 25448, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 25448, Gecko_IOThread] WARNING: pipe error (109): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574824980909	Marionette	INFO	Stopped listening on port 43437
+1574824988315	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVnW46q"
+1574824988617	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574824988617	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574824988617	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574824988617	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:26092): GLib-GIO-WARNING **: 20:23:08.714: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574824989630	Marionette	INFO	Listening on port 38079
+1574824989719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:26210): dconf-WARNING **: 20:23:13.007: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+[Parent 26092, Gecko_IOThread] WARNING: pipe error (63): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 26092, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574825178174	Marionette	INFO	Stopped listening on port 38079
+1574825182414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemcMvZy"
+1574825182745	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574825182746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574825182746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574825182746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:26482): GLib-GIO-WARNING **: 20:26:22.858: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574825183927	Marionette	INFO	Listening on port 38019
+1574825184026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:26600): dconf-WARNING **: 20:26:27.453: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+1574825327811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO8a0cH"
+1574825328133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574825328133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574825328133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574825328133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:26847): GLib-GIO-WARNING **: 20:28:48.242: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574825329479	Marionette	INFO	Listening on port 41135
+1574825329515	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:26965): dconf-WARNING **: 20:28:54.354: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+1574825495468	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1tuMSM"
+1574825495797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574825495797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574825495798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574825495798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:27161): GLib-GIO-WARNING **: 20:31:35.900: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574825496949	Marionette	INFO	Listening on port 33625
+1574825496971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:27278): dconf-WARNING **: 20:31:40.430: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+1574825586889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC5ruMs"
+1574825587215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574825587215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574825587216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574825587216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:27454): GLib-GIO-WARNING **: 20:33:07.329: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574825588356	Marionette	INFO	Listening on port 34625
+1574825588392	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:27571): dconf-WARNING **: 20:33:11.612: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+[Parent 26847, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 26847, Gecko_IOThread] WARNING: pipe error (109): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574825631857	Marionette	INFO	Stopped listening on port 41135
+[Parent 27454, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1574825634715	Marionette	INFO	Stopped listening on port 34625
+[Parent 27161, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 27161, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574825635872	Marionette	INFO	Stopped listening on port 33625
+[Parent 26482, Gecko_IOThread] WARNING: pipe error (62): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 26482, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574825649669	Marionette	INFO	Stopped listening on port 38019
+1574825865052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAoaRCh"
+1574825865421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574825865421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574825865421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574825865421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:28276): GLib-GIO-WARNING **: 20:37:45.549: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574825866681	Marionette	INFO	Listening on port 41077
+1574825866759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1140:3
+
+1574825868191	Marionette	ERROR	[21] No reply from Marionette:Register
+1574825874625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel1VwGQ"
+1574825874961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574825874961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574825874961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574825874961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:28554): GLib-GIO-WARNING **: 20:37:55.076: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574825876178	Marionette	INFO	Listening on port 39391
+1574825876243	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574825876581	Marionette	INFO	Stopped listening on port 41077
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:28672): dconf-WARNING **: 20:37:59.277: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+1574826189716	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenztFTT"
+1574826190067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574826190067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574826190068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574826190068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:28940): GLib-GIO-WARNING **: 20:43:10.182: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574826191322	Marionette	INFO	Listening on port 33897
+1574826191421	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:29060): dconf-WARNING **: 20:43:14.185: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+1574826301882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq4gXbb"
+1574826302246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574826302247	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574826302247	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574826302247	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:29250): GLib-GIO-WARNING **: 20:45:02.361: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574826303439	Marionette	INFO	Listening on port 44589
+1574826303486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:29366): dconf-WARNING **: 20:45:06.377: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+1574826430192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOcnJ2o"
+1574826430528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574826430528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574826430528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574826430528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:29564): GLib-GIO-WARNING **: 20:47:10.645: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574826431739	Marionette	INFO	Listening on port 43613
+1574826431805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+[Parent 28940, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 28940, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574826447820	Marionette	INFO	Stopped listening on port 33897
+[Parent 28554, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574826448715	Marionette	INFO	Stopped listening on port 39391
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1140:3
+
+1574826454690	Marionette	INFO	Stopped listening on port 43613
+[Parent 29250, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574826455890	Marionette	INFO	Stopped listening on port 44589
+[Parent 19524, Gecko_IOThread] WARNING: pipe error (147): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 19524, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574826460143	Marionette	INFO	Stopped listening on port 35763
+1574826619858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet95584"
+1574826620213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574826620213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574826620214	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574826620214	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:30195): GLib-GIO-WARNING **: 20:50:20.352: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574826621446	Marionette	INFO	Listening on port 33961
+1574826621465	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:30312): dconf-WARNING **: 20:50:24.140: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1574826779963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegoVY4r"
+1574826780315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574826780315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574826780315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574826780315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:30501): GLib-GIO-WARNING **: 20:53:00.432: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574826781713	Marionette	INFO	Listening on port 34311
+1574826781807	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:30618): dconf-WARNING **: 20:53:05.160: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+1574826896938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7DMOa9"
+1574826897275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574826897275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574826897275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574826897275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:30847): GLib-GIO-WARNING **: 20:54:57.383: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574826898403	Marionette	INFO	Listening on port 45099
+1574826898445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:30964): dconf-WARNING **: 20:55:01.211: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+[Parent 30847, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574826982916	Marionette	INFO	Stopped listening on port 45099
+1574827051118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew80TyV"
+1574827051470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574827051470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574827051470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574827051470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:31255): GLib-GIO-WARNING **: 20:57:31.582: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1574827052650	Marionette	INFO	Listening on port 41721
+1574827052728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+
+(/usr/lib/firefox/firefox:31372): dconf-WARNING **: 20:57:36.538: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+JavaScript error: https://shibidp.colostate.edu/idp/_support/js/script.js, line 445: ReferenceError: ll is not defined
+[Parent 20004, Gecko_IOThread] WARNING: pipe error (54): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 20004, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574827254453	Marionette	INFO	Stopped listening on port 40793
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[Parent 30501, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 30501, Gecko_IOThread] WARNING: pipe error (102): Connection reset by peer: file /build/firefox/src/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574827268634	Marionette	INFO	Stopped listening on port 34311
